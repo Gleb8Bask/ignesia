@@ -5,7 +5,7 @@
     <!-- Content -->
     <div class="blog-center-align">
 
-        <!-- Blog Caption -->
+        <!-- Blog Caption (test)-->
         <div class="blog-caption">
             <div class="blogtitle"><?php _e('Blog Posts','aletheme'); ?></div>
         </div>
